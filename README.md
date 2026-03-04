@@ -1,53 +1,21 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=71&fontColor=C8F7C5&fontAlign=56&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=E0BBE4"  />
-</div>
-
-###
-
-<p align="center">👋 Olá, eu sou a Camila!<br>Bem-vindo(a) ao meu espaço na tecnologia.<br><br>Aqui você vai encontrar meus projetos, estudos e minha evolução na programação</p>
-
-###
-
-<h6 align="center"></h6>
-
-###
-
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/d2f7915ba24c2dc5c8c157cb0b11e6747edfd031b67da3f4a7c8fb2b76f432fe/68747470733a2f2f696d6775722e636f6d2f7a657548496b392e676966"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl2eGowMDFnNmJ6ZGQxMnFzczYzbzF1M2oxcXZvMTRqdjJyOXRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif"  />
 </div>
 
 ###
 
-  <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=E0BBE4"  />
-</div>
+# 💫 Hey, its Cams! 
+Acredito que aprender é um processo contínuo e é exatamente isso que você vai ver por aqui. <br/>
+Este espaço reúne meus estudos, experimentos e cada passo da minha evolução na tecnologia. 💻🦋
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pascal](https://img.shields.io/badge/pascal-%230288d1?style=for-the-badge&logo=lazarus&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-blue?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)
 
 
 
-<div align="center">
 
-<details>
-  <summary> More Info</summary>
-
-  <br>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-
-</div>
